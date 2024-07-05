@@ -18,4 +18,5 @@ describe("Command class", function () {
     const testValue = 15;
     expect(new Command('MOVE', testValue).value).toBe(testValue);
   });
+
 });
