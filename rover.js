@@ -1,5 +1,4 @@
 class Rover {
-   // Write code here!
    constructor(position) {
       this.position = position;
       this.mode = "NORMAL";
