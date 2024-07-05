@@ -1,6 +1,6 @@
 name: autograding
 
-on: [push]
+on: push
 
 jobs:
   build:
